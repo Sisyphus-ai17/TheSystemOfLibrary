@@ -2,7 +2,7 @@
 void show_main(void)
 {	
 	system("CLS");
-	printf("\n\n\n\n\t\t\t\t西邮图书馆");
+	printf("\n\n\n\n\t\t\t\t西工大图书馆");
 	printf("\n\t\t\t*************************\n\n");
 	printf("\t\t\t\t1)学生端\n");
 	printf("\t\t\t\t2)管理员端\n");
